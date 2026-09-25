@@ -91,6 +91,7 @@ How settlement and the receipt work, and the open standards underneath, in [SPEC
 ## Related
 
 - [Awesome Agentic Commerce LATAM](https://github.com/codespar/awesome-agentic-commerce-latam) - the ecosystem index.
+- [Nano (XNO) x402 settlement](https://github.com/x402nano/exact) - feeless, sub-second x402 settlement over the nano:* network family; no issuer, no gas token, no bridge. Agents paying HTTP 402-priced APIs can settle directly in XNO today.
 - [MCP Dev LATAM](https://github.com/codespar/mcp-dev-latam) - 127 MCP servers for LATAM commerce.
 - [x402 on Dune Analytics](https://dune.com/x402) - ecosystem-wide x402 volume, not CodeSpar-specific.
 
